@@ -1,16 +1,3 @@
-# todo_test_task
+<img src="lib/images/first-screen.jpeg" height="450"> <img src="lib/images/add-screen.jpeg" height="450"> <img src="lib/images/tasks-screen.jpeg" height="450">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="lib/images/weather-screen.jpeg" height="450"> <img src="lib/images/filter-screen.jpeg" height="450">
